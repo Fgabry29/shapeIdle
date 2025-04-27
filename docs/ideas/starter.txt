@@ -1,0 +1,8 @@
+GIOCO IDLE Gestione delle risorse
+SI PARTE DAL TRIANGOLOLUS
+fabric idle 
+
+Sistema di risorse:
+forme geometriche (triangoli, quadrato, pentagono, esagono, ettagono, ottagono, etc.) piu lati hai piu costa
+produzione automatica gia funzionante tramite livello e in TOT livelli aumenta la produzione e i prezzi 
+upgrades, updatando diminuisce il tempo e aumenta il costo di produzione 
