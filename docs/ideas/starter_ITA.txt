@@ -7,7 +7,6 @@ GIOCO IDLE Gestione delle risorse
          upgrades, updatando diminuisce il tempo e aumenta il costo di produzione 
             Prestigio:
             Guadagno token (kiubs) 
-             update prestigio velocità, guadagno 
-		Skin:
-		ad ogni 20 livelli ci sta una skin, e ogni 3 livelli compare una da comprare nel negozio, queste skin danno power ups e posso essere unite 
-		 però la più potente cala un pò di potenza  
+             update prestigio velocità, guadagno
+             Come sistema di punteggio del prestigio abbiamo dei punti che si ottengono in base al punteggio conseguito nella run che si potranno spendere per altri buff, insieme al già esistente reset con buff. Per l’interfaccia di prestigio un semplice albero  
+		  rovesciato
