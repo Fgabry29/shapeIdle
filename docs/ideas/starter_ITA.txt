@@ -9,5 +9,5 @@ GIOCO IDLE Gestione delle risorse
             Guadagno token (kiubs) 
              update prestigio velocità, guadagno 
 		Skin:
-		ad ogni 20 livelli ci sta una skin, e ogni 3 livelli una da comprare, queste skin danno power ups e posso essere unite 
+		ad ogni 20 livelli ci sta una skin, e ogni 3 livelli compare una da comprare nel negozio, queste skin danno power ups e posso essere unite 
 		 però la più potente cala un pò di potenza  

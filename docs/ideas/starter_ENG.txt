@@ -1,0 +1,12 @@
+IDLE GAME Resource managment
+fabric idle
+	Resource system:
+		geometric figures (triangle, square, pentagon, hexagon, etc.) with incrementing sides
+	Updates:
+		automatic production already working based on level and on a certain amount of levels it increments production and pricing.
+		getting more upgrades reduce time and production cost.
+	Prestige:
+		Token earning (kiubs)
+		Getting prestige increments speed and earnings.
+	Skin:
+		for every 20 levels there is a skin, and every 3 levels a skin appears in the shop. These skins give power-ups and can be merged, but the strongest skin gets slightly nerfed.
