@@ -10,6 +10,7 @@ Main features of the game include:
 
 # Development
 The game is still under heavy development, so no releases are currently available. We aim to bring the game to the Android mobile platform via a downloadable APK or via Google Play Store.
+The game will also be available in our GitHub Pages website as soon as a first release is made.
 
 The team working on the game consists of three members:
 -   [PhysicTargaryen](https://github.com/PhysicTargaryen) - Lead game designer, UI design
