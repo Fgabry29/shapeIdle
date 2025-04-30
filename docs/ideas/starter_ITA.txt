@@ -3,10 +3,9 @@ GIOCO IDLE Gestione delle risorse
     Sistema di risorse:
       forme geometriche (triangoli, quadrato, pentagono, esagono, ettagono, ottagono, etc.) va in quantità di lati
          Updates:
-         produzione automatica già funzionante tramite livello e in TOT livelli aumenta la produzione e i prezzi 
-         upgrades, updatando diminuisce il tempo e aumenta il costo di produzione 
-            Prestigio:
+         	produzione automatica già funzionante tramite livello e in TOT livelli aumenta la produzione e i prezzi 
+	        upgrades, updatando diminuisce il tempo e aumenta il costo di produzione 
+         Prestigio:
             Guadagno token (kiubs) 
              update prestigio velocità, guadagno
-             Come sistema di punteggio del prestigio abbiamo dei punti che si ottengono in base al punteggio conseguito nella run che si potranno spendere per altri buff, insieme al già esistente reset con buff. Per l’interfaccia di prestigio un semplice albero  
-		  rovesciato
+             Come sistema di punteggio del prestigio abbiamo dei punti che si ottengono in base al punteggio conseguito nella run che si potranno spendere per altri buff, insieme al già esistente reset con buff. 

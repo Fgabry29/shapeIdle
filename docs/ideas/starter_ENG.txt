@@ -8,4 +8,4 @@ fabric idle
 	Prestige:
 		Token earning (kiubs)
 		Getting prestige increments speed and earnings.
-	
+		As a prestige system we have points that can be obtained based on the score on the run that can be spent in other buffs, along the pre-existing reset buff.
